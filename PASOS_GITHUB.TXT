@@ -1,0 +1,13 @@
+
+ https://github.com/
+crear cuenta
+crear repositorio
+https://github.com/oscarcano/testing
+
+git remote add origen https://github.com/oscarcano/testing
+
+git push origen 
+ 
+
+https://code.google.com/p/oscartesting/
+

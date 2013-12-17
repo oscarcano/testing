@@ -1,0 +1,9 @@
+ir a https://code.google.com
+utilizar la cuenta de google
+crear proyecto
+
+git remote add gorigen https://oscarcano.net@code.google.com/p/oscartesting/
+ 
+git push gorigen
+ 
+git add .
